@@ -37,6 +37,7 @@ nav img{
     font-family: "poppins";
     text-transform: uppercase;
 }
+
 .nav-links ul li::after{
     content: "";
     width: 0%;
